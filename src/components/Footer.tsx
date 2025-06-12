@@ -36,7 +36,7 @@ const Footer = () => {
           </div>
           <div className="border-t border-border pt-6">
             <p className="text-sm text-muted-foreground">
-              © 2024 Moumita Deb. All rights reserved. Built with ❤️ and React.
+              © 2024 Moumita Deb. All rights reserved.
             </p>
           </div>
         </div>
