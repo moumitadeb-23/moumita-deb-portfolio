@@ -15,7 +15,7 @@ const Projects = () => {
         'Stock Alerts',
         'Database Integration'
       ],
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop',
       status: 'Completed'
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
         'Interactive Elements',
         'Modern Layout'
       ],
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=600&h=400&fit=crop',
       status: 'Completed'
     }
   ];
