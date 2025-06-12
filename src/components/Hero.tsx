@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="relative w-48 h-48 mx-auto mb-8">
               <img
-                src="/lovable-uploads/0cdf3bd6-e4d0-4953-a984-7b06c1deca01.png"
+                src="/lovable-uploads/7a401830-fa05-4257-b771-0c023d5528f1.png"
                 alt="Moumita Deb"
                 className="w-full h-full rounded-full object-cover border-4 border-primary shadow-2xl hover:scale-105 transition-transform duration-300"
               />
