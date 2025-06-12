@@ -1,30 +1,12 @@
-
-import { ThemeToggle } from '@/components/ThemeToggle';
-import { Navigation } from '@/components/Navigation';
-import { Hero } from '@/components/Hero';
-import { About } from '@/components/About';
-import { Skills } from '@/components/Skills';
-import { Projects } from '@/components/Projects';
-import { Goals } from '@/components/Goals';
-import { Contact } from '@/components/Contact';
-import { Footer } from '@/components/Footer';
+// Update this page (the content is just a fallback if you fail to update the page)
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
-      <ThemeToggle />
-      <Navigation />
-      
-      <main>
-        <Hero />
-        <About />
-        <Skills />
-        <Projects />
-        <Goals />
-        <Contact />
-      </main>
-      
-      <Footer />
+    <div className="min-h-screen flex items-center justify-center bg-background">
+      <div className="text-center">
+        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
+        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
+      </div>
     </div>
   );
 };
